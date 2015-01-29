@@ -1,2 +1,2 @@
 # cloud-images
-Hosts images used in earth science course.
+Hosts images for earth science course.
